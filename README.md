@@ -15,13 +15,24 @@ _Proyecto Final - Electrónica Digital 1 - 2023-1S_
 Implementar un sistema automatizado de gestión de equipos donde el estudiante pueda acceder desde un banco de laboratorio con una interfaz para solicitar los equipos necesarios para el desarrollo de la practica. De manera que, el personal del almacén genere una revisión y aprobación de la solicitud para realizar la entrega.
 
 :bulb: Este proyecto se realizó con base en protocolos en VDHL utilizando una FPGA como tarjeta de desarollo junto con Arduino para complementar la alimentación, además de los periféricos de salida y entrada implementados como mediadores de dichos protocolos, tales como:
-- RFID-RC522
-- HY-SRF05
-- Motoro paso a paso 28BYJ-48
+
+- Lector de tarjetas RFID-RC522
+- Sensor ultrasonido HY-SRF05
+- Motor paso a paso 28BYJ-48
+- Servomotor SG90
 
 ## _Alcance y Problemática_
 
 ### Alcance del proyecto
+
+El objetivo de este proyecto es implementar una solución tecnológica que permita la actualización de la infraestructura de los espacios de los laboratorios de ingeniería ubicados en el Edificio 411. La finalidad es mejorar las condiciones y capacidades de los laboratorios para facilitar el desarrollo de actividades académicas y prácticas relacionadas con la ingeniería.
+
+El alcance del proyecto abarcará principalmente:
+
+- Evaluación de la infraestructura existente: Se realizará una evaluación exhaustiva de los laboratorios de ingeniería en el Edificio 411 para identificar las áreas de mejora y determinar los requisitos tecnológicos necesarios.
+
+- Diseño de la solución tecnológica: Con base en los resultados de la evaluación, se elaborará un diseño detallado de la solución tecnológica que incluirá la actualización de equipos, sistemas y software necesarios para mejorar la funcionalidad y eficiencia de los laboratorios.
+
 ### Problemática a resolver
 
 En los laboratorios de Ingeniería (Ed. 411), día a día se presenta un desafío significativo relacionado con la gestión de equipos para el desarrollo de las clases o una práctica libre. A menudo, se pierde tiempo valioso en la entrega de equipos debido a las limitantes con respecto al espacio de almacenamiento para la gestión de los equipos en relación con la cantidad de estudiantes que utilizan el laboratorio simultáneamente.
