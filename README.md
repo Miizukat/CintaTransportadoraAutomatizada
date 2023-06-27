@@ -2,7 +2,8 @@
 ***Universidad Nacional de Colombia***
 
 _Proyecto Final - Electrónica Digital 1 - 2023-1S_
-![Imagen del Proyecto](ruta/imagen-proyecto.png)
+
+![Imagen del Proyecto](FotosProyecto/foto.jpg)
 
 ## _Integrantes del Proyecto_
 
