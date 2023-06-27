@@ -18,6 +18,7 @@ Breve descripción del proyecto.
 - ![Viñeta 2](ruta/vineta-negra-2.png) Problemática a resolver
 
 ## Diagrama de Caja Negra
+El diagrama de caja negra se describe a partir de las entradas y salidas del sistema, se interpreta de la siguiente forma:
 
 ![Diagrama de Caja Negra](ruta/diagrama-caja-negra.png)
 
