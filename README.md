@@ -16,8 +16,14 @@ Breve descripción del proyecto.
 
 ## Alcance y Problemática
 
-- ![Viñeta 1](ruta/vineta-negra-1.png) Alcance del proyecto
-- ![Viñeta 2](ruta/vineta-negra-2.png) Problemática a resolver
+### Alcance del proyecto
+### Problemática a resolver
+
+En los laboratorios de Ingeniería (Ed. 411), día a día se presenta un desafío significativo relacionado con la gestión de equipos para el desarrollo de las clases o una práctica libre. A menudo, se pierde tiempo valioso en la entrega de equipos debido a las limitantes con respecto al espacio de almacenamiento para la gestión de los equipos en relación con la cantidad de estudiantes que utilizan el laboratorio simultáneamente.
+
+Esta situación tiene un impacto negativo en la eficiencia y efectividad tanto de los laboratorios como de los mismos estudiantes durante su permanencia en este espacio. Además, se puede evidenciar un incorrecto manejo del tiempo debido a todo el proceso que implica gestionar los equipos para el desarrollo de algún laboratorio. De manera que, no se reduce únicamente a pedir el préstamo de equipos de laboratorio, también implica un costo ambiental al utilizar los formatos de préstamo de equipos haciendo inviable el consumo que se ha mantenido durante los años del laboratorio.
+
+Cabe destacar que esto implica que se afecte la calidad de los equipos por el exceso de la manipulación y la precisión de los resultados a largo plazo al transportar los equipos de un sitio a otro, donde en algunos casos puede ocurrir que se genere un impacto físico a los equipos reduciendo su vida útil. Por lo tanto, los resultados pueden diferir y tener una incertidumbre aún mayor que la que se esperaría obtener por los estudiantes, de manera que puede afectar el proceso de aprendizaje sobre la materia para la cual se solicita la práctica.
 
 ## Diagrama de Caja Negra
 El diagrama de caja negra se describe a partir de las entradas y salidas del sistema, se interpreta de la siguiente forma:
