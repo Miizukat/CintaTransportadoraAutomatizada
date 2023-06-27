@@ -67,7 +67,7 @@ La implementación del proyecto se llevó a cabo por etapas, es decir, por módu
 ![Evidencia de Implementación1](FotosProyecto/rfid.mp4)
    
 3. Sensor Ultrasonido HY-SFR05
-![Evidencia de Implementación2](FotosProyecto/aaa.png)
+![Evidencia de Implementación2](FotosProyecto/tarjetas.mp4)
   
 5. Motor paso a paso 28BYJ-48
 ![Evidencia de Implementación3](FotosProyecto/motor.mp4)
@@ -81,7 +81,5 @@ La implementación del proyecto se llevó a cabo por etapas, es decir, por módu
 
 ## _Referencias_
 
-- ![Viñeta 1](ruta/vineta-negra-1.png) Referencia 1
-- ![Viñeta 2](ruta/vineta-negra-2.png) Referencia 2
-- ![Viñeta 3](ruta/vineta-negra-3.png) Referencia 3
+[1] Thomas L. Floyd, "Digital Fundamentals", 11th ed., Upper Saddle River, NJ, USA, Pearson, 2015.
 
