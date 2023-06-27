@@ -59,7 +59,13 @@ En este caso, se describen los procesos internos de funcionamiento del dispositi
 
 Descripción de las simulaciones realizadas y sus resultados.
 
-## _Evidencia de Implementación_
+## _Evidencia de ImplementaM_
+La implementación del proyecto se llevó a cabo por etapas, es decir, por módulos, cada módulo representando el funcionamiento de cada periférico que al final están instanciados en el código orincipal, entonces, el funcionamiento que refiere para cada uno es:
+
+1. Lector de tarjetas RFID-RC522
+2. Sensor Ultrasonido HY-SFR05
+3. Motor paso a paso 28BYJ-48
+4. Servomotor SG90 
 
 ![Evidencia de Implementación](ruta/evidencia-implementacion.png)
 
