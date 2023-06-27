@@ -1,12 +1,14 @@
 # Título del Proyecto
+***Universidad Nacional de Colombia***
 
+_Proyecto Final - Electrónica Digital 1 - 2023-1S_
 ![Imagen del Proyecto](ruta/imagen-proyecto.png)
 
 ## Integrantes del Proyecto
 
-- Nombre1
-- Nombre2
-- Nombre3
+- Nicolás Osorio Guarín.
+- Sergio Andrés Gordillo Gómez.
+- Andrea Catherin Carreño Sierra.
 
 ## Descripción
 
