@@ -52,8 +52,8 @@ En este caso, se describen los procesos internos de funcionamiento del dispositi
 ![Diagrama de Flujo](FotosProyecto/diagramaflujo.png)
 
 ## _Máquina de Estados_
-
-![Máquina de Estados](ruta/maquina-estados.png)
+Para etender mejor el comportamiento de la secuencia de este proyecto, se realiza una máquina de estados algorítmica describiendo como estados a las funciones de los periféricos.
+![Máquina de Estados](FotosProyecto/maquinaestados.png)
 
 ## _Simulaciones_
 
