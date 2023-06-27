@@ -1,4 +1,4 @@
-# Título del Proyecto
+# Cinta Transportadora Automatizada
 ***Universidad Nacional de Colombia***
 
 _Proyecto Final - Electrónica Digital 1 - 2023-1S_
