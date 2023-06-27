@@ -20,11 +20,12 @@ Breve descripción del proyecto.
 ## Diagrama de Caja Negra
 El diagrama de caja negra se describe a partir de las entradas y salidas del sistema, se interpreta de la siguiente forma:
 
-![Diagrama de Caja Negra](ruta/diagrama-caja-negra.png)
+![Diagrama de Caja Negra](FotosProyecto/diagramabloques.png)
 
 ## Diagrama de Flujo
+En este caso, se describen los procesos internos de funcionamiento del dispositivo y en cada uno de los módulos, visualizánodose de la siguiente manera:
 
-![Diagrama de Flujo](ruta/diagrama-flujo.png)
+![Diagrama de Flujo](FotosProyecto/diagramaflujo.png)
 
 ## Máquina de Estados
 
