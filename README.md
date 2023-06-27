@@ -63,11 +63,16 @@ Descripción de las simulaciones realizadas y sus resultados.
 La implementación del proyecto se llevó a cabo por etapas, es decir, por módulos, cada módulo representando el funcionamiento de cada periférico que al final están instanciados en el código principal, entonces, el funcionamiento que refiere para cada uno es:
 
 1. Lector de tarjetas RFID-RC522
-2. Sensor Ultrasonido HY-SFR05
-3. Motor paso a paso 28BYJ-48
-4. Servomotor SG90 
+![Evidencia de Implementación1](FotosProyecto/rfid.mp4)
+   
+3. Sensor Ultrasonido HY-SFR05
+![Evidencia de Implementación2](FotosProyecto/aaa.png)
+  
+5. Motor paso a paso 28BYJ-48
+![Evidencia de Implementación3](FotosProyecto/motor.mp4)
 
-![Evidencia de Implementación](ruta/evidencia-implementacion.png)
+7. Servomotor SG90
+![Evidencia de Implementación4](FotosProyecto/servo.mp4)
 
 ## _Video del Proyecto_
 
