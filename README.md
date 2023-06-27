@@ -4,17 +4,22 @@
 _Proyecto Final - Electrónica Digital 1 - 2023-1S_
 ![Imagen del Proyecto](ruta/imagen-proyecto.png)
 
-## Integrantes del Proyecto
+## _Integrantes del Proyecto_
 
 - Nicolás Osorio Guarín.
 - Sergio Andrés Gordillo Gómez.
 - Andrea Catherin Carreño Sierra.
 
-## Descripción
+## _¿En qué consiste?_
 
-Breve descripción del proyecto.
+Implementar un sistema automatizado de gestión de equipos donde el estudiante pueda acceder desde un banco de laboratorio con una interfaz para solicitar los equipos necesarios para el desarrollo de la practica. De manera que, el personal del almacén genere una revisión y aprobación de la solicitud para realizar la entrega.
 
-## Alcance y Problemática
+:bulb: Este proyecto se realizó con base en protocolos en VDHL utilizando una FPGA como tarjeta de desarollo junto con Arduino para complementar la alimentación, además de los periféricos de salida y entrada implementados como mediadores de dichos protocolos, tales como:
+- RFID-RC522
+- HY-SRF05
+- Motoro paso a paso 28BYJ-48
+
+## _Alcance y Problemática_
 
 ### Alcance del proyecto
 ### Problemática a resolver
@@ -25,33 +30,33 @@ Esta situación tiene un impacto negativo en la eficiencia y efectividad tanto d
 
 Cabe destacar que esto implica que se afecte la calidad de los equipos por el exceso de la manipulación y la precisión de los resultados a largo plazo al transportar los equipos de un sitio a otro, donde en algunos casos puede ocurrir que se genere un impacto físico a los equipos reduciendo su vida útil. Por lo tanto, los resultados pueden diferir y tener una incertidumbre aún mayor que la que se esperaría obtener por los estudiantes, de manera que puede afectar el proceso de aprendizaje sobre la materia para la cual se solicita la práctica.
 
-## Diagrama de Caja Negra
+## _Diagrama de Caja Negra_
 El diagrama de caja negra se describe a partir de las entradas y salidas del sistema, se interpreta de la siguiente forma:
 
 ![Diagrama de Caja Negra](FotosProyecto/diagramabloques.png)
 
-## Diagrama de Flujo
+## _Diagrama de Flujo_
 En este caso, se describen los procesos internos de funcionamiento del dispositivo y en cada uno de los módulos, visualizánodose de la siguiente manera:
 
 ![Diagrama de Flujo](FotosProyecto/diagramaflujo.png)
 
-## Máquina de Estados
+## _Máquina de Estados_
 
 ![Máquina de Estados](ruta/maquina-estados.png)
 
-## Simulaciones
+## _Simulaciones_
 
 Descripción de las simulaciones realizadas y sus resultados.
 
-## Evidencia de Implementación
+## _Evidencia de Implementación_
 
 ![Evidencia de Implementación](ruta/evidencia-implementacion.png)
 
-## Video del Proyecto
+## _Video del Proyecto_
 
 [Enlace al Video del Proyecto](enlace-video-proyecto)
 
-## Referencias
+## _Referencias_
 
 - ![Viñeta 1](ruta/vineta-negra-1.png) Referencia 1
 - ![Viñeta 2](ruta/vineta-negra-2.png) Referencia 2
