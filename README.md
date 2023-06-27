@@ -3,7 +3,7 @@
 
 _Proyecto Final - Electrónica Digital 1 - 2023-1S_
 
-![Imagen del Proyecto](FotosProyecto/foto.jpg)
+![Imagen del Proyecto](FotosProyecto/fototo.jpg)
 
 ## _Integrantes del Proyecto_
 
